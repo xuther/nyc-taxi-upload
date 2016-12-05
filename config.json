@@ -1,0 +1,17 @@
+{
+"elk-address": "http://linux-knight:9200/nyc-taxi/trip/_bulk",
+"input-address": "./test.csv",
+"time-format": "2006-01-02 15:04:05",
+"start-lat": 3,
+"start-long": 2,
+"start-time": 0,
+"start-block": 8,
+"start-tract": 7,
+"start-county": 6,
+"end-time": 1,
+"end-lat": 4,
+"end-long": 5,
+"end-block": 11,
+"end-tract": 10,
+"end-county": 9
+}
